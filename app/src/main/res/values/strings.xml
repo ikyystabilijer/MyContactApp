@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyContactApp</string>
+    <string name="title_form">Form Data Pengguna</string>
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="hint_email">Alamat Email</string>
+    <string name="hint_phone">Nomor Telepon</string>
+    <string name="hint_address">Alamat Lengkap</string>
+    <string name="hint_jurusan">Pilih Jurusan</string>
+    <string name="btn_kirim">Kirim Data</string>
+
+    <string name="title_detail">Detail Kontak</string>
+    <string name="label_nama">Nama:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_phone">Nomor Telepon:</string>
+    <string name="label_address">Alamat:</string>
+    <string name="label_jurusan">Jurusan:</string>
+    <string name="label_implicit_action">Aksi Sistem (Implicit Intent)</string>
+
+    <string name="btn_telpon">Menelpon Nomor</string>
+    <string name="btn_email">Kirim Email</string>
+    <string name="btn_maps">Lihat di Google Maps</string>
+
+    <string name="error_empty_field">Harap isi bidang ini</string>
+    <string name="msg_no_email_app">Aplikasi Email tidak ditemukan!</string>
+    <string name="msg_no_maps_app">Aplikasi Maps tidak ditemukan!</string>
+
+    <string-array name="jurusan_array">
+        <item>RPL</item>
+        <item>DKV</item>
+        <item>TKJ</item>
+        <item>ANM</item>
+        <item>BC</item>
+    </string-array>
+</resources>
